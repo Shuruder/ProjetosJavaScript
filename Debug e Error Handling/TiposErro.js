@@ -118,6 +118,3 @@ throw MeuErro;
 // Parametros do Error .name .stack
 // .name - Nome do tipo de Erro
 // .stack - apresenta todo o Stack do Erro, name parametros e local (linha:coluna)
-
-
-//Pai ta on
